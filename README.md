@@ -1,2 +1,2 @@
-#Proiect cautare binara
-aia e
+/*Proiect cautare binara*/
+//aia e
